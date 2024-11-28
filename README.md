@@ -1,3 +1,3 @@
 # Vue 3 + TypeScript + Vite
 
-#live link()
+#live link(https://kaleidoscopic-cocada-2536bd.netlify.app/)
